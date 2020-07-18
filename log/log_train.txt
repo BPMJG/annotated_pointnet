@@ -1,0 +1,154 @@
+Namespace(batch_size=16, decay_rate=0.7, decay_step=200000, gpu=0, learning_rate=0.001, log_dir='log', max_epoch=250, model='pointnet_cls', momentum=0.9, num_point=1024, optimizer='adam')
+**** EPOCH 000 ****
+----训练数据0-----
+mean loss: 3.744336
+accuracy: 0.185059
+----训练数据1-----
+mean loss: 2.831151
+accuracy: 0.281250
+----训练数据2-----
+mean loss: 2.532346
+accuracy: 0.326172
+----训练数据3-----
+mean loss: 2.373292
+accuracy: 0.352539
+----训练数据4-----
+mean loss: 2.098267
+accuracy: 0.396238
+----测试数据0-----
+
+----测试数据1-----
+
+eval mean loss: 2.384593
+eval accuracy: 0.451299
+eval avg class acc: 0.356471
+Model saved in file: log\model.ckpt
+**** EPOCH 001 ****
+----训练数据0-----
+mean loss: 1.908137
+accuracy: 0.443568
+----训练数据1-----
+mean loss: 1.884549
+accuracy: 0.453125
+----训练数据2-----
+mean loss: 2.029268
+accuracy: 0.438965
+----训练数据3-----
+mean loss: 1.845410
+accuracy: 0.471680
+----训练数据4-----
+mean loss: 1.643924
+accuracy: 0.512695
+----测试数据0-----
+
+----测试数据1-----
+
+eval mean loss: 1.405280
+eval accuracy: 0.590909
+eval avg class acc: 0.491805
+**** EPOCH 002 ****
+----训练数据0-----
+mean loss: 1.567683
+accuracy: 0.545898
+----训练数据1-----
+mean loss: 1.485133
+accuracy: 0.558252
+----训练数据2-----
+mean loss: 1.532279
+accuracy: 0.550781
+----训练数据3-----
+mean loss: 1.393241
+accuracy: 0.587891
+----训练数据4-----
+mean loss: 1.350841
+accuracy: 0.595703
+----测试数据0-----
+
+----测试数据1-----
+
+eval mean loss: 1.284059
+eval accuracy: 0.610390
+eval avg class acc: 0.532926
+**** EPOCH 003 ****
+----训练数据0-----
+mean loss: 1.304839
+accuracy: 0.603155
+----训练数据1-----
+mean loss: 1.243649
+accuracy: 0.625488
+----训练数据2-----
+mean loss: 1.391120
+accuracy: 0.595703
+----训练数据3-----
+mean loss: 1.305707
+accuracy: 0.608887
+----训练数据4-----
+mean loss: 1.262683
+accuracy: 0.618652
+----测试数据0-----
+
+----测试数据1-----
+
+eval mean loss: 1.106389
+eval accuracy: 0.667208
+eval avg class acc: 0.591040
+**** EPOCH 004 ****
+----训练数据0-----
+mean loss: 1.150493
+accuracy: 0.651699
+----训练数据1-----
+mean loss: 1.085425
+accuracy: 0.674805
+----训练数据2-----
+mean loss: 1.133730
+accuracy: 0.657227
+----训练数据3-----
+mean loss: 1.151213
+accuracy: 0.653320
+----训练数据4-----
+mean loss: 1.129845
+accuracy: 0.658691
+----测试数据0-----
+
+----测试数据1-----
+
+eval mean loss: 1.038005
+eval accuracy: 0.671672
+eval avg class acc: 0.600968
+**** EPOCH 005 ****
+----训练数据0-----
+mean loss: 1.037171
+accuracy: 0.692871
+----训练数据1-----
+mean loss: 1.075589
+accuracy: 0.673828
+----训练数据2-----
+mean loss: 1.151080
+accuracy: 0.648058
+----训练数据3-----
+mean loss: 1.210515
+accuracy: 0.625488
+----训练数据4-----
+mean loss: 1.088209
+accuracy: 0.659180
+----测试数据0-----
+
+----测试数据1-----
+
+eval mean loss: 0.850796
+eval accuracy: 0.742289
+eval avg class acc: 0.674320
+**** EPOCH 006 ****
+----训练数据0-----
+mean loss: 0.989379
+accuracy: 0.709473
+----训练数据1-----
+mean loss: 0.978808
+accuracy: 0.699707
+----训练数据2-----
+mean loss: 1.002275
+accuracy: 0.702670
+----训练数据3-----
+mean loss: 1.359614
+accuracy: 0.599609
+----训练数据4-----
